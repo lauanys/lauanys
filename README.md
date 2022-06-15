@@ -3,7 +3,7 @@
 
 
 <br><br>
-- 📔Estudando JavaScript
+- 📔Estudando JavaScript e React
 
 
 - 🙍‍♀️Hoje trabalho com Fron-end
